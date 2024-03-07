@@ -14,7 +14,7 @@ f = loadFont('assets/font/Prida65.otf');
 
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(800, 700);
   background(255);
   //frameRate(10);
   counterR = height;
