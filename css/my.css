@@ -1,0 +1,70 @@
+
+
+body {
+    margin: auto;
+    padding: 25px;
+    background-color: #ffffff;
+    font-family: Montserrat;
+  }
+
+  .header{
+
+    padding: 5px;
+    text-align: center;
+
+  }
+  
+  h1 {
+    color:  #df276b;
+    font-size: 50px;
+  }
+
+  h2 {
+    color:  #df276b;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  ul {
+    margin: 40px;
+ 
+  }
+
+  .code{
+
+    text-align: center;
+
+  }
+
+
+  a:link {
+    color:  rgb(255, 146, 200);
+    font-size: 25px;
+    padding: 10px 50px;
+  }
+  
+
+  a:visited {
+    color:  rgb(255, 146, 200);
+  }
+
+  p{
+
+    color:#ce004c;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 5px 50px;
+
+  }
+  
+  .column {
+    /* float: left; */
+    width: 50%;
+    margin: auto;
+    padding: 50px 10px;
+  }
+
+
+
+
